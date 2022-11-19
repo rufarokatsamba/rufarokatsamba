@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rufarokatsamba
 - 👀 I’m interested in AI and Cloud tech
 - 🌱 I’m currently learning AWS solutions architect
-- 💞️ I’m looking to collaborate on an AI and Cloud tech
+- 💞️ I’m looking to collaborate on any AI and Cloud tech
 - 📫 Hit me up on rufarokatsamba94@gmail.com
 
 <!---
